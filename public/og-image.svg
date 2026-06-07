@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111f" />
+      <stop offset="0.52" stop-color="#0d1b2f" />
+      <stop offset="1" stop-color="#14223b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="120" x2="1040" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7dd3fc" />
+      <stop offset="1" stop-color="#34d399" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="48" fill="url(#bg)" />
+  <circle cx="1020" cy="110" r="220" fill="#1e3a8a" fill-opacity="0.22" />
+  <circle cx="180" cy="540" r="220" fill="#0f766e" fill-opacity="0.18" />
+  <rect x="72" y="72" width="1056" height="486" rx="36" stroke="url(#accent)" stroke-opacity="0.32" />
+  <text x="120" y="182" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="0.04em">RONIT DHOLWANI</text>
+  <text x="120" y="286" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="700">Android Developer</text>
+  <text x="120" y="356" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="500">Kotlin • Java • Flutter • Firebase • MERN Stack</text>
+  <text x="120" y="432" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="36" font-weight="400">Vadodara, India</text>
+  <text x="120" y="494" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="400">Portfolio, projects, experience, and certifications</text>
+</svg>
